@@ -5,6 +5,8 @@ this repo contains the information on the devCraft server, as well as the mods n
 
 #Connecting
 - ip address:
+- port:
 
 #Version and Required Mods
-*note: 
+//note - public modpack permissions are all included in the downloadable modpack AND separately in this repo//
+
