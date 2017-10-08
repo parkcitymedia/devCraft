@@ -1,12 +1,13 @@
-# (BEEP BOOP - UNDER CONSTRUCTION)
-- - - - - - - - - - - - - - - - - - - - - - - 
-# devCraft README
-this repo contains the information on the devCraft server, as well as the mods needed to join (and some reccomendations too)
+DEVCRAFT
 
 # Connecting
-- ip address:
-- port:
+- ip address: devcraft.ml
+- port: 25565
 
 # Version and Required Mods
-//note - public modpack permissions are all included in the downloadable modpack AND separately in this repo//
-
+- version: 1.7.10
+- download dsteiner's custom launcher (tar.gz): https://github.com/parkcitymedia/devCraft/raw/286a948a29ff701569c088b90a7866e5f538bb8c/CUSTOM-LAUNCHER.tar.gz
+- download dsteiner's custom launcher (zip): https://github.com/parkcitymedia/devCraft/raw/286a948a29ff701569c088b90a7866e5f538bb8c/CUSTOM-LAUNCHER.zip
+- download multimc instance: https://drive.google.com/file/d/0B69iUBdgcKpQWUFXU2dWNHNla1k/view?usp=sharing
+- download modpack (tar.gz): https://drive.google.com/open?id=0B69iUBdgcKpQV2M4TTVUTlllN1k
+- download modpack (zip): https://drive.google.com/open?id=0B69iUBdgcKpQbmVZZGVPN0RqMlE
