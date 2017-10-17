@@ -1,7 +1,7 @@
 DEVCRAFT
 
 # About
-  devCraft is a minecraft server, designed to be geared towards the developer community <a href="https://devrant.io">devRant</a>.
+  devCraft is a minecraft server, designed to be geared towards the members of the developer community <a href="https://devrant.io">devRant</a>, featuring many computing and programming-based mods.
 
 # Connecting
 - ip address: devcraft.ml
