@@ -1,5 +1,8 @@
 DEVCRAFT
 
+# About
+  devCraft is a minecraft server, designed to be geared towards the developer community <a href="https://devrant.io">devRant</a>.
+
 # Connecting
 - ip address: devcraft.ml
 - port: 25565
