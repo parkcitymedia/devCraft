@@ -12,15 +12,15 @@ DEVCRAFT
 
 [][][] Custom Launcher [][][]
 
-- download dsteiner's custom launcher (tar.gz): https://github.com/parkcitymedia/devCraft/raw/master/devStuff/CUSTOM-LAUNCHER.tar.gz
-- download dsteiner's custom launcher (zip): https://github.com/parkcitymedia/devCraft/raw/master/devStuff/CUSTOM-LAUNCHER.zip
+- download dsteiner's <a href="https://github.com/parkcitymedia/devCraft/raw/master/devStuff/CUSTOM-LAUNCHER.tar.gz">custom launcher (tar.gz)</a>
+- download dsteiner's <a href ="https://github.com/parkcitymedia/devCraft/raw/master/devStuff/CUSTOM-LAUNCHER.zip">custom launcher (zip)</a>
 
 [][][] Modpack [][][]
 
-- download modpack (tar.gz): https://github.com/parkcitymedia/devCraft/raw/master/devStuff/mods.tar.gz
-- download modpack (zip): https://github.com/parkcitymedia/devCraft/raw/master/devStuff/mods.zip
+- download <a href="https://github.com/parkcitymedia/devCraft/raw/master/devStuff/mods.tar.gz">modpack (tar.gz)</a>
+- download <a href ="https://github.com/parkcitymedia/devCraft/raw/master/devStuff/mods.zip">modpack (zip)</a>
 
 [][][] MultiMC5 instance [][][]
 
-note* you need to install forge after adding the instance
-- download multimc instance: https://github.com/parkcitymedia/devCraft/raw/master/devStuff/devCraft-MultiMC.zip
+note* you need to install forge after importing the instance via instance settings > versions > install forge (<a href="">help here</a>)
+- download <a href="https://github.com/parkcitymedia/devCraft/raw/master/devStuff/devCraft-MultiMC.zip">multimc instance</a>
