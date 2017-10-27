@@ -1,4 +1,4 @@
-DEVCRAFT
+DEVCRAFT <img src="https://github.com/parkcitymedia/devCraft/blob/master/devStuff/devcraft64.png?raw=true" align="center">
 
 # About
   devCraft is a minecraft server, designed to be geared towards the members of the developer community <a href="https://devrant.io">devRant</a>, featuring many computing and programming-based mods.
