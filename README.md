@@ -23,7 +23,7 @@
 - download <a href="https://github.com/parkcitymedia/devCraft/raw/master/devStuff/mods.tar.gz">modpack (tar.gz)</a>
 - download <a href ="https://github.com/parkcitymedia/devCraft/raw/master/devStuff/mods.zip">modpack (zip)</a>
 
-<p><b><i>[][][] MultiMC5 instance [][][]</p></b></i>
+<p style="color:#FF2121;"><b><i>[][][] MultiMC5 instance [][][]</p></b></i>
 
 note* you need to install forge after importing the instance via instance settings > versions > install forge (<a href="">help here</a>)
 - download <a href="https://github.com/parkcitymedia/devCraft/raw/master/devStuff/devCraft-MultiMC.zip">multimc instance</a>
