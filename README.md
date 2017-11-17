@@ -1,3 +1,7 @@
+```
+NOTICE: multimc instances do not connect, and afaik it's either multimc itself, 1.7.10, or both. i'm looking into the issue now
+```
+
 <p><img src="https://raw.githubusercontent.com/parkcitymedia/devCraft/master/devStuff/devcraft64.png" align="center"> <i>DEVCRAFT</i></p>
 
 # About
