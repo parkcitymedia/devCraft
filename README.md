@@ -34,7 +34,7 @@ NOTICE: multimc instances do not connect, and afaik it's either multimc itself, 
 <p style="color:#FF2121;"><b><i>[][][] MultiMC5 instance [][][]</p></b></i>
 
 
-~~<b>MULTIMC HAS KNOWN CONNECTION ISSUES WITH THE MOJANG AUTHENTICATION SERVERS. THIS OPTION MAY NOT WORK FOR YOU.</b>
+~~MULTIMC HAS KNOWN CONNECTION ISSUES WITH THE MOJANG AUTHENTICATION SERVERS. THIS OPTION MAY NOT WORK FOR YOU.~~
 
-note* you need to install forge after importing the instance via instance settings > versions > install forge
-- download <a href="https://github.com/parkcitymedia/devCraft/raw/master/devStuff/devCraft-MultiMC.zip">multimc instance</a>~~
+~~note* you need to install forge after importing the instance via instance settings > versions > install forge
+download multimc instance~~
