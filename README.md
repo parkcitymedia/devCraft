@@ -1,6 +1,7 @@
 `
 NOTICE 11/21/17: MultiMC not supported right now due to its issues; working on a fix
 `
+<br />
 `
 NOTICE: multimc instances do not connect, and afaik it's either multimc itself, 1.7.10, or both. i'm looking into the issue now
 `
