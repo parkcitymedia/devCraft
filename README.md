@@ -31,7 +31,7 @@ NOTICE: multimc instances do not connect, and afaik it's either multimc itself, 
 - download <a href="https://github.com/parkcitymedia/devCraft/raw/master/devStuff/mods.tar.gz">modpack (tar.gz)</a>
 - download <a href ="https://github.com/parkcitymedia/devCraft/raw/master/devStuff/mods.zip">modpack (zip)</a>
 
-<p style="color:#FF2121;"><b><i>[][][] MultiMC5 instance [][][]</p></b></i>
+~~[][][] MultiMC5 instance [][][]~~
 
 
 ~~MULTIMC HAS KNOWN CONNECTION ISSUES WITH THE MOJANG AUTHENTICATION SERVERS. THIS OPTION MAY NOT WORK FOR YOU.~~
