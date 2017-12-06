@@ -1,10 +1,7 @@
 <b><i>NOTICE 12/6/2017: Server maintenance on hiatus. I've got school, and dsteiner has work - don't get your hopes up for any huge fixes any time soon. sorry, guys</i></b>
 <br />
-<i>NOTICE 11/21/2017: MultiMC not supported right now due to its issues; working on a fix</i>
-<br />
-<del>NOTICE: multimc instances do not connect, and afaik it's either multimc itself, 1.7.10, or both. i'm looking into the issue now</del>
-
 <p><img src="https://raw.githubusercontent.com/parkcitymedia/devCraft/master/devStuff/devcraft64.png" align="center"> <i>DEVCRAFT</i></p>
+<p> [<b><a href="https://github.com/parkcitymedia/devCraft/blob/master/README.md#Notices">Notices</a></b>] [<b><a href="https://github.com/parkcitymedia/devCraft/blob/master/README.md#mod-options">Download</a></b>]
 
 # About
 <img src="https://raw.githubusercontent.com/parkcitymedia/devCraft/master/devStuff/devcraft32.png" align="center"> devCraft is a minecraft server, designed to be geared towards the members of the developer community <a href="https://devrant.io">devRant</a>, featuring many computing and programming-based mods.<img src="https://raw.githubusercontent.com/parkcitymedia/devCraft/master/devStuff/devcraft32.png" align="center">
@@ -36,3 +33,12 @@
 
 ~~note* you need to install forge after importing the instance via instance settings > versions > install forge
 download multimc instance~~
+
+# NOTICES
+<h6>latest notice will <i>always</i> be posted at the top of this document. all previous notices (as well as the latest) will be posted under this section.</h6>
+
+<b><i>NOTICE 12/6/2017: Server maintenance on hiatus. I've got school, and dsteiner has work - don't get your hopes up for any huge fixes any time soon. sorry, guys</i></b>
+<br />
+<i>NOTICE 11/21/2017: MultiMC not supported right now due to its issues; working on a fix</i>
+<br />
+<del>NOTICE: multimc instances do not connect, and afaik it's either multimc itself, 1.7.10, or both. i'm looking into the issue now</del>
