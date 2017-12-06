@@ -1,10 +1,8 @@
-`
-NOTICE 11/21/17: MultiMC not supported right now due to its issues; working on a fix
-`
+<b><i>NOTICE 12/6/2017: Server maintenance on hiatus. I've got school, and dsteiner has work - don't get your hopes up for any huge fixes any time soon. sorry, guys</i></b>
 <br />
-~~`
-NOTICE: multimc instances do not connect, and afaik it's either multimc itself, 1.7.10, or both. i'm looking into the issue now
-`~~
+<i>NOTICE 11/21/2017: MultiMC not supported right now due to its issues; working on a fix</i>
+<br />
+~~ NOTICE: multimc instances do not connect, and afaik it's either multimc itself, 1.7.10, or both. i'm looking into the issue now ~~
 
 <p><img src="https://raw.githubusercontent.com/parkcitymedia/devCraft/master/devStuff/devcraft64.png" align="center"> <i>DEVCRAFT</i></p>
 
