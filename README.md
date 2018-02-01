@@ -38,7 +38,8 @@ download multimc instance~~
 # NOTICES
 <h6>latest notice will <i>always</i> be posted at the top of this document. all previous notices (as well as the latest) will be posted under this section.</h6>
 
-<b><i>NOTICE 12/6/2017: Server maintenance on hiatus. I've got school, and dsteiner has work - don't get your hopes up for any huge fixes any time soon. sorry, guys</i></b>
+<p><b>NOTICE 1/13/18</b><br />
+<i> server not online. feel free to use the modpacks at your own discretion. the server will remain down until/unless otherwise stated here</i></p>
 
 <b><i>NOTICE 12/6/2017: Server maintenance on hiatus. I've got school, and dsteiner has work - don't get your hopes up for any huge fixes any time soon. sorry, guys</i></b>
 <br />
