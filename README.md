@@ -1,5 +1,5 @@
 <p><b>NOTICE 1/13/18</b><br />
-<i> multimc server not online. feel free to use the modpacks at your own discretion. the server will remain down until/unless otherwise stated here</i></p>
+<i> server not online. feel free to use the modpacks at your own discretion. the server will remain down until/unless otherwise stated here</i></p>
 <br />
 <p><img src="https://raw.githubusercontent.com/parkcitymedia/devCraft/master/devStuff/devcraft64.png" align="center"> <i>DEVCRAFT</i></p>
 <p> [<b><a href="https://github.com/parkcitymedia/devCraft/blob/master/README.md#notices">Notices</a></b>] [<b><a href="https://github.com/parkcitymedia/devCraft/blob/master/README.md#mod-options">Download</a></b>]
